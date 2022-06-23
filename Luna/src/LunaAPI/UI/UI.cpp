@@ -117,7 +117,6 @@ namespace Luna {
 			if (dockspace_flags & ImGuiDockNodeFlags_PassthruCentralNode)
 				window_flags |= ImGuiWindowFlags_NoBackground;
 
-
 			//----------------------------------------------
 			//			MAIN WINDOW (DOCKSPACE)
 			//----------------------------------------------
